@@ -9,4 +9,4 @@ image: animal-survey.png
 Dynamically show the survey history with picures, and other information. 
 
 [Source code](https://github.com/shinysolutions/qinghai_14)
-<iframe src="http://51.175.77.204:3839/qinghai/q14"></iframe><br>
+<iframe src="http://82.164.5.46:3839/qinghai/q14"></iframe><br>
