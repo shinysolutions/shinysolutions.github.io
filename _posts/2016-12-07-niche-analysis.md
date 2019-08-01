@@ -11,6 +11,6 @@ A shiny-app for calculating the Kernel density & Minimum Convex Polygon for spec
 
 [Source code](https://github.com/shinysolutions/galliformes)
 
-<iframe src="http://51.175.77.204:3839/platform/galliformes_shiny"></iframe><br>
+<iframe src="http://82.164.5.46:3839/platform/galliformes_shiny"></iframe><br>
 
 
