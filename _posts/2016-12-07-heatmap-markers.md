@@ -11,4 +11,4 @@ A map based shiny-app. Allow map-navigation, marker cluster and heatmap.
 
 [Souce code](https://github.com/shinysolutions/heatmap)
 
-<iframe src="http://51.175.77.204:3838/sykehus"></iframe><br>
+<iframe src="http://82.164.5.46:3838/sykehus"></iframe><br>
